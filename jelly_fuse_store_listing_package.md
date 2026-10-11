@@ -4,7 +4,7 @@
 - **App Name / Title:** Jelly Fuse: Gelatin Block Match
 - **Package ID:** `com.janaire.jellyfuse`
 - **Developer Name:** Tshiamo Jantjie
-- **Developer Email:** `tshiajan@gmail.com`
+- **Developer Email:** `janaire.dev@gmail.com`
 - **Category:** Puzzle / Casual / Match & Merge / Brain Games
 - **Content Rating:** Everyone (PEGI 3 / ESRB Everyone)
 - **Contains Ads:** Yes (Google AdMob rewarded video & interstitials)
@@ -225,7 +225,7 @@ Baixe Jelly Fuse agora e curta a diversão elástica das gelatinas!
 **Effective Date:** October 11, 2026  
 **Last Updated:** October 11, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janaire.dev@gmail.com  
 **Application:** Jelly Fuse: Gelatin Block Match (Package ID: com.janaire.jellyfuse)
 
 ---
